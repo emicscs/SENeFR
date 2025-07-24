@@ -1,1 +1,1 @@
-init commit
+Sparse Events as Neural Fields for 4D Reconstruction
